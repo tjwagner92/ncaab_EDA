@@ -2,7 +2,7 @@
 
 Sports analytics is an emerging data science field that is gaining public exposure. Leagues like the National Football League (NFL) are routinely including [NextGen Stats](https://nextgenstats.nfl.com/) during their broadcasts, which include advanced statistics like expected completion percentage. The National Collegiate Athletic Association Basketball (NCAAB) has a plethora of data that can also be analyzed using similar analytical techniques to make both conclusions about previous seasons and predictions about future seasons. 
 
-Here, I will use the 2021 season from an NCAAB [dataset] (https://www.kaggle.com/datasets/andrewsundberg/college-basketball-dataset) to build a linear regression model using several team statistical measures that I believe will capture a team's winning percentage (wins / total games) during the season. I will extend this model to previous seasons to see how well it can generalize across years. 
+Here, I will use the 2021 season from an NCAAB [dataset](https://www.kaggle.com/datasets/andrewsundberg/college-basketball-dataset) to build a linear regression model using several team statistical measures that I believe will capture a team's winning percentage (wins / total games) during the season. I will extend this model to previous seasons to see how well it can generalize across years. 
 
 ## Contents
 1) Loading data and libraries
