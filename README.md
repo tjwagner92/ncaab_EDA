@@ -10,6 +10,7 @@ Here, I will use the 2021 season from an NCAAB [dataset](https://www.kaggle.com/
 3) Model Training
 4) Model Testing
 5) Model predictions for other seasons
+6) Final Summary
 
 ## Summary of Findings and Future Directions
 Overall, the six predictors I selected (Adjusted Offensive Efficiency, Adjusted Defensive Efficiency, Effective Field Goal Percentage Shot, Effective Field Goal Percentage Allowed, Two-Point Shooting Percentage, and Two-Point Shooting Percentage Allowed) did a relatively good job of predicting a team's winning percentage from both the 2021 and 2020 seasons. 
